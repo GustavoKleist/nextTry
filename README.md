@@ -1,4 +1,4 @@
-[![Deploy to Firebase](https://github.com/GustavoKleist/nextTry/actions/workflows/CI.yml/badge.svg)](https://github.com/GustavoKleist/nextTry/actions/workflows/CI.yml)
+[![Deploy to Firebase](https://github.com/GustavoKleist/nextTry/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/GustavoKleist/nextTry/actions/workflows/CI.yml)
 
 ## Getting Started
 
